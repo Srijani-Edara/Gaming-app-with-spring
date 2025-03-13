@@ -5,7 +5,7 @@ import com.learning.gaming_with_spring.game.MarioGame;
 import com.learning.gaming_with_spring.game.PacMan;
 import com.learning.gaming_with_spring.game.SuperContraGame;
 
-public class AppGamingBasicJava {
+public class App01GamingBasicJava {
 
 	public static void main(String[] args) {
 		
